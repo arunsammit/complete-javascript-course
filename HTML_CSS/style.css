@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(255, 247, 236);
+  font-family: "Courier New", Courier, monospace;
+  padding: 50px;
+}
+h1 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.first {
+  color: rgb(252, 114, 64);
+}
+.p {
+  margin-bottom: 20px;
+}
+#your-name {
+  background-color: rgb(255, 239, 215);
+  border: 5px solid #444;
+  width: 400px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 10px;
+}
+a {
+  background-color: rgb(236, 131, 152);
+}
+#your-name h2 {
+  color: chartreuse;
+}
+#alma-matter {
+  width: 400px;
+}
